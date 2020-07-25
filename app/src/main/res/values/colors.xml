@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-	<color name="theme_color">#f06292</color>
-	<color name="theme_color_weak">#f48fb1</color>
+	<color name="theme_color">#e123ff</color>
+	<color name="theme_color_weak">#f48fff</color>
 
 	<color name="colorPrimary">@color/theme_color</color>
 	<color name="colorPrimaryDark">@color/theme_color</color>
-	<color name="colorAccent">#e91e63</color>
+	<color name="colorAccent">#cf1e40</color>
 	<color name="tab_select_color">#ffffff</color>
 	<color name="tab_unselect_color">#8cffffff</color>
 	<color name="white_80">#ffffff</color>
